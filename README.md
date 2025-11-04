@@ -1,6 +1,6 @@
 <div align="center">
 
-![IMAGEM](cabeçalho.png)
+![IMAGEM](imagens/cabeçalho.png)
 
 </div>
 
